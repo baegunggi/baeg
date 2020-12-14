@@ -23,6 +23,7 @@
 			<div class="col-md-12">
 				<h2 class="contact-title offset-md-2 col-md-6" style="margin-bottom: 30px">회원가입</h2>
 			</div>
+			<div>테스트좀하자</div>
 
 			<!-- 로그인 시작 -->
 			<div class="col-md-12">
